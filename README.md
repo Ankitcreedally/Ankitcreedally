@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ankit Dalsaniya
 - 👀 I’m a WordPress Developer
 - 🌱 I’m currently working at CreedAlly
-- 📫 How to reach me by ankit.creedally@gmail.com
+- 📫 How to reach me: ankit.creedally@gmail.com
 
 <!---
 Ankitcreedally/Ankitcreedally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
